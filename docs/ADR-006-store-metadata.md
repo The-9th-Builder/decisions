@@ -25,6 +25,8 @@ store/
 
 The standard locale set for all apps is: `en-US`, `fr-FR`, `de-DE`, `es-ES`, `it-IT`, `ko-KR`, `pl-PL`, `pt-PT`, `ru-RU`, `zh-CN`, `ja-JP`, `pt-BR`, `tr-TR`, `nl-NL`, `ar`.
 
+The apps themselves are translated into the same 15 languages (ADR-009), and each locale gets its own screenshots and feature graphic.
+
 Deployment to the Play Store is automated via `tool/play_deploy.py` (see ADR-013).
 
 ## Alternatives considered

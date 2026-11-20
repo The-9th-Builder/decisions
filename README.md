@@ -16,6 +16,7 @@ An Architecture Decision Record captures a significant choice made during develo
 | Speed Calculator | speed-calculator |
 | SleevIt | sleeves-collection |
 | TankPilot | tank_pilot |
+| PuzzleKeeper | puzzle-keeper |
 
 ## Index
 
